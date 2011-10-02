@@ -1,3 +1,4 @@
 Hello git
 Changes 
-Changes2 
+Changes2
+new change in master branch 
